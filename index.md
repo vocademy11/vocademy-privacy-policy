@@ -1,6 +1,6 @@
-
 # Privacy Policy
 
+**Last Updated:** January 4, 2026
 **Effective Date:** December 15, 2025
 
 Welcome to **Vocademy**.
@@ -147,6 +147,18 @@ and are integrated only to support essential app functionality.
 
 ---
 
+## Subscriptions and Payments
+
+If you choose to purchase a subscription:
+
+- Payments are processed securely via **Google Play Store**.
+- Vocademy does **not** store your credit card or bank details.
+- **Subscriptions auto-renew** unless canceled at least 24 hours before the end of the current period.
+- You can manage or cancel your subscription anytime in your Play Store or App Store settings.
+- **Refund Policy:** In addition to Google Play's standard refund window, Vocademy offers an extended money-back guarantee: **3 days** for Monthly plans and **7 days** for Yearly plans. If you are not satisfied, please contact our support team with your Order ID within this period. In case of any policy contradiction, Google Play's official policy and terms will take precedence.
+
+---
+
 ## Email Communication
 
 When you contact Vocademy for support, feedback, or queries,
@@ -218,7 +230,8 @@ of the updated policy.
 If you have any questions, concerns, or requests regarding this Privacy Policy,
 please contact us at:
 
-🌐 **Website:** https://vocademy.co.in  
+🌐 **Website:** https://vocademy.co.in
+📄 **Privacy Policy is also available at:** https://vocademy11.github.io/vocademy-privacy-policy/
 📧 **Email:** support@vocademy.co.in, contact@vocademy.co.in, vocademy.co.in@gmail.com
 
 
@@ -235,4 +248,4 @@ We are committed to:
 - Protecting your privacy at every step  
 
 Your data exists only to support your learning —
-**nothing more, nothing less.**
+**nothing more, nothing less.*
