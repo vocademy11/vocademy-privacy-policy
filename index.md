@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** January 4, 2026
+**Last Updated:** January 17, 2026
 **Effective Date:** December 15, 2025
 
 Welcome to **Vocademy**.
@@ -140,10 +140,15 @@ Vocademy may use trusted third-party services for limited purposes such as:
 - Crash reporting and performance monitoring  
 - Payment processing for premium features
 - Third-party payment processing for post-sale services.
- 
 
-These services operate under their own privacy policies
-and are integrated only to support essential app functionality.
+### Advertising (Google AdMob)
+Vocademy uses **Google AdMob** to display advertisements within the app. These advertisements help us keep the app free and cover operational costs (server, AI services, etc.).
+
+- **Personalized Advertising:** Google and its partners may use cookies or unique device identifiers to serve ads based on your visits to our app and other websites on the internet.
+- **Opt-Out:** You can opt out of personalized advertising by visiting **Google's Ad Settings** or by using your device's privacy settings (e.g., "Limit Ad Tracking" on iOS or "Opt out of Interest-Based Ads" on Android).
+- **Data Collection:** AdMob may collect and use certain data, such as device identifiers and location data, in accordance with [Google’s Privacy Policy](https://policies.google.com/privacy).
+
+These services operate under their own privacy policies and are integrated only to support essential app functionality and sustainability.
 
 ---
 
@@ -231,7 +236,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy,
 please contact us at:
 
 🌐 **Website:** https://vocademy.co.in
-📄 **Privacy Policy is also available at:** https://vocademy11.github.io/vocademy-privacy-policy/
+
 📧 **Email:** support@vocademy.co.in, contact@vocademy.co.in, vocademy.co.in@gmail.com
 
 
